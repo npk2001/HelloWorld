@@ -1,0 +1,32 @@
+/Users/nikhilkamerkar/Downloads/Ex_Files_Learning_C_Sharp/Exercise Files/Finished/Overview/HelloWorld/bin/Debug/net5.0/HelloWorld
+/Users/nikhilkamerkar/Downloads/Ex_Files_Learning_C_Sharp/Exercise Files/Finished/Overview/HelloWorld/bin/Debug/net5.0/HelloWorld.deps.json
+/Users/nikhilkamerkar/Downloads/Ex_Files_Learning_C_Sharp/Exercise Files/Finished/Overview/HelloWorld/bin/Debug/net5.0/HelloWorld.runtimeconfig.json
+/Users/nikhilkamerkar/Downloads/Ex_Files_Learning_C_Sharp/Exercise Files/Finished/Overview/HelloWorld/bin/Debug/net5.0/HelloWorld.runtimeconfig.dev.json
+/Users/nikhilkamerkar/Downloads/Ex_Files_Learning_C_Sharp/Exercise Files/Finished/Overview/HelloWorld/bin/Debug/net5.0/HelloWorld.dll
+/Users/nikhilkamerkar/Downloads/Ex_Files_Learning_C_Sharp/Exercise Files/Finished/Overview/HelloWorld/bin/Debug/net5.0/HelloWorld.pdb
+/Users/nikhilkamerkar/Downloads/Ex_Files_Learning_C_Sharp/Exercise Files/Finished/Overview/HelloWorld/obj/Debug/net5.0/HelloWorld.csproj.AssemblyReference.cache
+/Users/nikhilkamerkar/Downloads/Ex_Files_Learning_C_Sharp/Exercise Files/Finished/Overview/HelloWorld/obj/Debug/net5.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nikhilkamerkar/Downloads/Ex_Files_Learning_C_Sharp/Exercise Files/Finished/Overview/HelloWorld/obj/Debug/net5.0/HelloWorld.AssemblyInfoInputs.cache
+/Users/nikhilkamerkar/Downloads/Ex_Files_Learning_C_Sharp/Exercise Files/Finished/Overview/HelloWorld/obj/Debug/net5.0/HelloWorld.AssemblyInfo.cs
+/Users/nikhilkamerkar/Downloads/Ex_Files_Learning_C_Sharp/Exercise Files/Finished/Overview/HelloWorld/obj/Debug/net5.0/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/nikhilkamerkar/Downloads/Ex_Files_Learning_C_Sharp/Exercise Files/Finished/Overview/HelloWorld/obj/Debug/net5.0/HelloWorld.dll
+/Users/nikhilkamerkar/Downloads/Ex_Files_Learning_C_Sharp/Exercise Files/Finished/Overview/HelloWorld/obj/Debug/net5.0/refint/HelloWorld.dll
+/Users/nikhilkamerkar/Downloads/Ex_Files_Learning_C_Sharp/Exercise Files/Finished/Overview/HelloWorld/obj/Debug/net5.0/HelloWorld.pdb
+/Users/nikhilkamerkar/Downloads/Ex_Files_Learning_C_Sharp/Exercise Files/Finished/Overview/HelloWorld/obj/Debug/net5.0/HelloWorld.genruntimeconfig.cache
+/Users/nikhilkamerkar/Downloads/Ex_Files_Learning_C_Sharp/Exercise Files/Finished/Overview/HelloWorld/obj/Debug/net5.0/ref/HelloWorld.dll
+/Users/nikhilkamerkar/Downloads/HelloWorld/bin/Debug/net5.0/HelloWorld
+/Users/nikhilkamerkar/Downloads/HelloWorld/bin/Debug/net5.0/HelloWorld.deps.json
+/Users/nikhilkamerkar/Downloads/HelloWorld/bin/Debug/net5.0/HelloWorld.runtimeconfig.json
+/Users/nikhilkamerkar/Downloads/HelloWorld/bin/Debug/net5.0/HelloWorld.runtimeconfig.dev.json
+/Users/nikhilkamerkar/Downloads/HelloWorld/bin/Debug/net5.0/HelloWorld.dll
+/Users/nikhilkamerkar/Downloads/HelloWorld/bin/Debug/net5.0/HelloWorld.pdb
+/Users/nikhilkamerkar/Downloads/HelloWorld/obj/Debug/net5.0/HelloWorld.csproj.AssemblyReference.cache
+/Users/nikhilkamerkar/Downloads/HelloWorld/obj/Debug/net5.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nikhilkamerkar/Downloads/HelloWorld/obj/Debug/net5.0/HelloWorld.AssemblyInfoInputs.cache
+/Users/nikhilkamerkar/Downloads/HelloWorld/obj/Debug/net5.0/HelloWorld.AssemblyInfo.cs
+/Users/nikhilkamerkar/Downloads/HelloWorld/obj/Debug/net5.0/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/nikhilkamerkar/Downloads/HelloWorld/obj/Debug/net5.0/HelloWorld.dll
+/Users/nikhilkamerkar/Downloads/HelloWorld/obj/Debug/net5.0/refint/HelloWorld.dll
+/Users/nikhilkamerkar/Downloads/HelloWorld/obj/Debug/net5.0/HelloWorld.pdb
+/Users/nikhilkamerkar/Downloads/HelloWorld/obj/Debug/net5.0/HelloWorld.genruntimeconfig.cache
+/Users/nikhilkamerkar/Downloads/HelloWorld/obj/Debug/net5.0/ref/HelloWorld.dll
